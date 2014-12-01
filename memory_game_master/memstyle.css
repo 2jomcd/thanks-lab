@@ -1,0 +1,42 @@
+
+body > * {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+h1 {
+    font: bold 40px sans-serif;
+    color: #930;
+}
+
+h2 {
+    font: bold 20px sans-serif;
+    color: #930;
+}
+
+table#mem td {
+    width: 2em;
+    height: 2em;
+    text-align: center;
+    vertical-align: middle;
+    font: bold 48px sans-serif;
+    background-color: #FFEDBD;
+}
+
+.clicked {
+    background-color: #999999;
+}
+
+td#c1, td#c2, td#c3, td#c4, td#c5, td#c6, td#c7, td#c8  {
+    border: 5px solid #930;
+}
+
+
+button#resetbutton{
+    margin: 40px 0 0 0px;
+    font: bold 36px sans-serif;
+    background-color: #FFEDBD;
+
+}
